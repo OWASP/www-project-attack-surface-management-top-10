@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Shubham Mittal](mailto:shubham.mittal@owasp.org)
+* [Sudhanshu Chauhan](mailto:shubham.mittal@owasp.org)
+* [Krutarth Shukla](mailto:shubham.mittal@owasp.org)

@@ -1,0 +1,22 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Shubham Mittal
+    email: shubham.mittal@owasp.org
+    github: upgoingstar
+  - name: Sudhanshu Chauhan
+    email: sudhanshuchauhan@owasp.org
+level: 2
+name: OWASP Attack Surface Management Top 10
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-attack-surface-management-top-10
+    url: https://github.com/OWASP/www-project-attack-surface-management-top-10
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-attack-surface-management-top-10
